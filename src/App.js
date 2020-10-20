@@ -12,13 +12,14 @@ function App() {
       
       <Hero />
 
-      <Row />
-      <Row />
-      <Row />
-      <Row />
-      <Row />
-      <Row />
-      <Row />
+      <Row title="Platforms" />
+      <Row title="Genres" />
+      <Row title="Franchises" />
+      <Row title="Platform" />
+      <Row title="Platform" />
+      <Row title="Platform" />
+      <Row title="Platform" />
+      
       
       <Footer />
       
