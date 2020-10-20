@@ -1,0 +1,47 @@
+-------------------- Auto-Git Log --------------------
+		Tue Oct 20 2020 17:12:36 GMT-0500 (Central Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* package-lock.json
+* package.json
+* src/App.css
+* src/App.js
+
+
+Created files:
+* .autogit/autogit.json
+* .storybook/main.js
+* .storybook/preview.js
+* src/components/Footer/Footer.css
+* src/components/Footer/Footer.js
+* src/components/Hero/Hero.css
+* src/components/Hero/Hero.js
+* src/components/Navbar/Navbar.css
+* src/components/Navbar/Navbar.js
+* src/img/logo.png
+* src/stories/Button.js
+* src/stories/Button.stories.js
+* src/stories/Header.js
+* src/stories/Header.stories.js
+* src/stories/Introduction.stories.mdx
+* src/stories/Page.js
+* src/stories/Page.stories.js
+* src/stories/assets/code-brackets.svg
+* src/stories/assets/colors.svg
+* src/stories/assets/comments.svg
+* src/stories/assets/direction.svg
+* src/stories/assets/flow.svg
+* src/stories/assets/plugin.svg
+* src/stories/assets/repo.svg
+* src/stories/assets/stackalt.svg
+* src/stories/button.css
+* src/stories/header.css
+* src/stories/page.css
+
+
+Deleted files:
+* src/logo.svg
+
+
+Renamed files:
