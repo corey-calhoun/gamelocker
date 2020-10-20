@@ -1,9 +1,8 @@
-const APIKEY = "8ciwm8h4jkzatmul41ioggy8f1ejvn";
 
 const requests = {
-    fetchGamesByPlatform: `/games/platforms?api_key=${APIKEY}&language=en-US`,
-    fetchGamesByGenres: `/genres?api_key=${APIKEY}&language=en-US`,
-    fetchGamesByFranchise: `/franchises?api_key=${APIKEY}&language=en-US`,
+    fetchGamesByPlatform: `/platforms?&language=en-US`,
+    fetchGamesByGenres: `/genres?&language=en-US`,
+    fetchTopRated: `/games?2020-01-01,2019-12-31&ordering=-added&language=en-US`,
 }
 
 export default requests;
